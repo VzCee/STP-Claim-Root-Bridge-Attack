@@ -24,6 +24,8 @@ Esto puede permitir escenarios de:
 - Intercepción de tráfico entre switches
 - Manipulación del flujo de red
 - Interrupciones temporales de conectividad
+<img width="350" height="350" alt="Screenshot 2026-02-13 170334" src="https://github.com/user-attachments/assets/2b24f2d5-878a-432d-a6a8-ea5b3fce38a2" />
+
 
 ---
 
@@ -39,10 +41,12 @@ Esto puede permitir escenarios de:
 - Validación de ejecución con privilegios root.
 
 ---
+## Video de Demostracion
+**https://youtu.be/ENO_J61DHog?si=nILQLLmrKkhw3ELV**
 
 ## 🖥 Topología Representada en PNETLab
+<img width="1209" height="830" alt="image" src="https://github.com/user-attachments/assets/89850eeb-ba17-48d7-82e5-cc3e3786cdce" />
 
-Se utiliza la misma topología del laboratorio anterior:
 
 ### 🔌 Router
 
